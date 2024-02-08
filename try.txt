@@ -1,3 +1,7 @@
 trytrytry
 
+<<<<<<< HEAD
 在本地添加的
+=======
+在github上添加的
+>>>>>>> 4fcb3b297abf9f3321678e9cf2657fe9b25adad0
